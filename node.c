@@ -1,0 +1,1 @@
+// All functions relating to linked lists, e.g., creating nodes, appending, removal, etc.

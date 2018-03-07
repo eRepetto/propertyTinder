@@ -1,0 +1,1 @@
+// All functions related to properties, e.g. initialization, setters/getters, display functions
